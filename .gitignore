@@ -11,6 +11,8 @@ data/processed/*.csv
 
 models/*
 !models/.gitkeep
+!models/*.joblib
+!models/*.json
 
 .DS_Store
 Thumbs.db
