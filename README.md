@@ -1,4 +1,4 @@
-# Telco Customer Churn — ML Lab
+# Telco Customer Churn Prediction and Retention Project
 
 A supervised machine learning project that predicts which telecommunications customers are likely to cancel their subscription, and translates those predictions into a prioritised retention action list.
 
